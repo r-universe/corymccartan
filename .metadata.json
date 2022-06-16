@@ -1,0 +1,18 @@
+[
+  {
+    "package": "conformalbayes",
+    "oncran": true
+  },
+  {
+    "package": "easycensus",
+    "oncran": true
+  },
+  {
+    "package": "PL94171",
+    "oncran": true
+  },
+  {
+    "package": "wacolors",
+    "oncran": true
+  }
+]
