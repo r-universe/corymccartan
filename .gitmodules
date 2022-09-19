@@ -8,11 +8,6 @@
 	url = https://github.com/corymccartan/conformalbayes
 	shallow = true
 	registered = true
-[submodule "easycensus"]
-	path = easycensus
-	url = https://github.com/corymccartan/easycensus
-	shallow = true
-	registered = true
 [submodule "PL94171"]
 	path = PL94171
 	url = https://github.com/corymccartan/pl94171

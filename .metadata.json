@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "easycensus",
-    "oncran": true
-  },
-  {
     "package": "PL94171",
     "oncran": true
   },
