@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "conformalbayes"]
+	path = conformalbayes
+	url = https://github.com/corymccartan/conformalbayes
+	shallow = true
+	registered = true
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/corymccartan/easycensus
@@ -16,10 +21,5 @@
 [submodule "wacolors"]
 	path = wacolors
 	url = https://github.com/corymccartan/wacolors
-	shallow = true
-	registered = true
-[submodule "conformalbayes"]
-	path = conformalbayes
-	url = https://github.com/corymccartan/conformalbayes
 	shallow = true
 	registered = true
