@@ -1,9 +1,5 @@
 [
   {
-    "package": "conformalbayes",
-    "oncran": true
-  },
-  {
     "package": "easycensus",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "wacolors",
+    "oncran": true
+  },
+  {
+    "package": "conformalbayes",
     "oncran": true
   }
 ]
