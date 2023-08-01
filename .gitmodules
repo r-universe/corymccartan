@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PL94171"]
+	path = PL94171
+	url = https://github.com/corymccartan/pl94171
 [submodule "conformalbayes"]
 	path = conformalbayes
 	url = https://github.com/corymccartan/conformalbayes
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/corymccartan/easycensus
-[submodule "PL94171"]
-	path = PL94171
-	url = https://github.com/corymccartan/pl94171
 [submodule "wacolors"]
 	path = wacolors
 	url = https://github.com/corymccartan/wacolors
