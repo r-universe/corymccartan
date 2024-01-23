@@ -1,0 +1,18 @@
+[
+  {
+    "package": "biride",
+    "releasetag": true
+  },
+  {
+    "package": "easycensus",
+    "releasetag": true
+  },
+  {
+    "package": "adjustr",
+    "releasetag": true
+  },
+  {
+    "package": "wacolors",
+    "releasetag": true
+  }
+]
