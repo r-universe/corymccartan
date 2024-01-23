@@ -5,19 +5,19 @@
 [submodule "adjustr"]
 	path = adjustr
 	url = https://github.com/CoryMcCartan/adjustr
-	branch = *release
+	branch = v0.1.2
 [submodule "biride"]
 	path = biride
 	url = https://github.com/CoryMcCartan/birdie
-	branch = *release
+	branch = v0.4.0
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/CoryMcCartan/easycensus
-	branch = *release
+	branch = v1.1.1
 [submodule "nbhdmodel"]
 	path = nbhdmodel
 	url = https://github.com/CoryMcCartan/nbhdmodel
 [submodule "wacolors"]
 	path = wacolors
 	url = https://github.com/CoryMcCartan/wacolors
-	branch = *release
+	branch = v0.3.1
