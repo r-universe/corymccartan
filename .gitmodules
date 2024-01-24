@@ -6,10 +6,10 @@
 	path = adjustr
 	url = https://github.com/CoryMcCartan/adjustr
 	branch = v0.1.2
-[submodule "biride"]
-	path = biride
+[submodule "birdie"]
+	path = birdie
 	url = https://github.com/CoryMcCartan/birdie
-	branch = v0.4.0
+	branch = *release
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/CoryMcCartan/easycensus
