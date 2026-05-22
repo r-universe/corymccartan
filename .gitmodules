@@ -5,7 +5,7 @@
 [submodule "adjustr"]
 	path = adjustr
 	url = https://github.com/CoryMcCartan/adjustr
-	branch = v0.1.2
+	branch = v0.2.0
 [submodule "birdie"]
 	path = birdie
 	url = https://github.com/CoryMcCartan/birdie
